@@ -1,2 +1,2 @@
 # hello-world-test
-test repo
+A test repo that demonstrates how git works
